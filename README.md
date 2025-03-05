@@ -1,2 +1,2 @@
 # NpcFactory
-Generates Fallout 4 actors using JSON to describe appearances.
+Modifies Fallout 4 actors using JSON to describe new appearances.
